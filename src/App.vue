@@ -75,6 +75,7 @@ body {
   background-image: url(./assets/cold-bg.jpg);
   background-size: cover;
   background-position: bottom;
+  padding: 0;
   transition: 0.4s;
 }
 
